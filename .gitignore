@@ -1,0 +1,44 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Output of the Air live reloader
+/tmp/
+
+# Output of build process
+/tmp/main
+
+# Go workspace file
+*.code-workspace
+
+# Go modules
+vendor/
+
+# Dependency directories (remove the comment below if you use Go modules)
+# /vendor/
+
+# Logs
+*.log
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Node modules (if using React frontend)
+node_modules/
+
+# Environment files
+.env
+.env.*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Others
+coverage.out
+
